@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Jorge Contreras"
+  avatar           : "https://avatars.githubusercontent.com/u/3419200?v=4"
+  bio              : "I am a software engineer."
+  location         : "New York"
+  email            : "contact@jorgecontreras.dev"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
