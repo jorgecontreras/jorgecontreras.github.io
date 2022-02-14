@@ -108,9 +108,6 @@ author:
   location         : "New York"
   email            : "contact@jorgecontreras.dev"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "contact@jorgecontreras.dev"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jorgecontreras.dev"
