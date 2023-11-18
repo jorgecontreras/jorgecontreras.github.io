@@ -6,7 +6,7 @@ Nevertheless, there is always a possibility that some bugs and performance bottl
 
 Fortunately, the Go ecosystem offers a robust solution with `pprof`, a built-in profiling tool that provides detailed insights into application performance. `pprof` emerged as a practical choice to tackle the performance bottlenecks in my application.
 
-![Go pprof profile](goprof.webp)
+![Go pprof profile](/assets/images/goprof.webp)
 
 ## Understanding `pprof`: The Go Profiler
 
