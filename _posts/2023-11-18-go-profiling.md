@@ -108,4 +108,4 @@ Profiling should be a regular part of the development lifecycle, beyond merely r
 
 ## Links
 
-https://github.com/google/pprof
+[pprof](https://github.com/google/pprof)
