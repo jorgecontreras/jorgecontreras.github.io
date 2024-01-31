@@ -106,14 +106,17 @@ author:
   avatar           : "https://avatars.githubusercontent.com/u/3419200?v=4"
   bio              : "  "
   location         : "New York"
-  email            : "contact@jorgecontreras.dev"
+  email            : "hi@jorgecontreras.dev"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jorgecontreras"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jorgecontreras-profile/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://jorgecontreras.dev"
 
 # Site Footer
 footer:
