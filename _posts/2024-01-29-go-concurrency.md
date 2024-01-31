@@ -1,5 +1,7 @@
 # Concurrency in Go: The basics
 
+![](/assets/images/concurrency.jpeg)
+
 ## What is concurrency and why does it matter?
 
 Concurrency is handling several tasks within a given timeframe. Most modern applications, such as web servers, databases, and user interfaces, require real-time processing and responsiveness. Concurrency allows to handle multiple tasks, like API requests or database calls, simultaneously. This helps us developers improve the performance of the applications our users love. Concurrency allows for maximum optimization of computing resources, making our systems highly efficient while lowering infrastructure costs.
@@ -119,7 +121,9 @@ func main() {
 
 } 
 ```
-waitgroups: The process waits for the first 3 goroutines to complete.
+
+![](/assets/images/waitgroup.gif)
+_waitgroups: The process waits for the first 3 goroutines to complete._
 
 Waitgroups give you the ability to wait for goroutines to be completed before moving on.
 
