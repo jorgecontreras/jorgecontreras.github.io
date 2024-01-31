@@ -114,7 +114,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jorgecontreras-profile/"
-    - label: "Website"
+    - label: "Blog"
       icon: "fas fa-fw fa-link"
       url: "https://jorgecontreras.dev"
 
